@@ -1,4 +1,4 @@
-# The Evolution of Joe Biden's Political Discourse in His Speeches
+# Exploring Joe Biden's Presidential Speeches: Uncovering Themes and Trends in Political Discourse
 Political speech plays a vital role in comprehending political discourse, as it provides valuable insights into power dynamics and conflicts within a society. The language utilized by politicians, known as political discourse, serves as a potent tool for constructing a favorable and widely accepted self-representation or public perception (Neshkovska, 2019). By examining the main topics in presidential speeches and how presidents adapt their speeches and rhetoric to address these topics, researchers can gain insights into the shifts in public opinion, power dynamics, and conflicts within society.
 
 In this project, we delve into the speeches of Joe Biden, the current President of the United States, to gain a deeper understanding of the prominent topics discussed and their evolution from 2021 to 2023. This allows us to capture the recent developments and changes in political discourse.
