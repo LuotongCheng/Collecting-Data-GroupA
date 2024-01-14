@@ -4,7 +4,7 @@ Political speech plays a vital role in comprehending political discourse, as it 
 In this project, we delve into the speeches of Joe Biden, the current President of the United States, to gain a deeper understanding of the prominent topics discussed and their evolution from 2021 to 2023. This allows us to capture the recent developments and changes in political discourse.
 
 Our goal is to collect and analyze 21 speeches delivered by Joe Biden to uncover the underlying themes and trends in his speeches. We will employ computational techniques like the natural language processing and machine learning algorithms. Through topic modeling, we will uncover the latent themes within Biden's speeches, providing a comprehensive overview of the issues he has addressed. By analyzing the parts of speech and named entities, we will gain a deeper understanding of the linguistic patterns and the entities that Biden frequently references. By doing so, we aim to shed light on the key issues that have captured Biden's attention and how they have potentially shifted over time.
-### Files
+## Files
 Notebook
 >Collecting_Data_GroupA.ipynb: The notebook contains 3 sections: introduction, tutorial, and active learning exercises.
 
@@ -29,7 +29,7 @@ Annotated file
 >Joe_Biden_speech_topic_annotated.csv: data annotated with topics. 
 >
 >Joe_Biden_speech_spacy_annotated.csv: data anotated with POS and NER.
-### Reference
+## Reference
 >Miller Center of Public Affairs, University of Virginia. "Presidential Speeches: Downloadable Data." Accessed January 13, 2024. data.millercenter.org.
 
 >Neshkovska, S. (2019). Language in political speeches. In International Scientific Conference “Towards a Better Future: Democracy, EU Integration and Criminal Justice” Conference Proceedings, Volume II (Vol. 2, pp. 115-124). Faculty of Law-Kicevo, University “St. Kliment Ohridski”-Bitola.
