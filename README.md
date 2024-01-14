@@ -28,4 +28,8 @@ Topic modelling
 Annotated file
 >Joe_Biden_speech_topic_annotated.csv: data annotated with topics. 
 >
->Joe_Biden_speech_spacy_annotated.csv: data anotated with POS and NER. 
+>Joe_Biden_speech_spacy_annotated.csv: data anotated with POS and NER.
+### Reference
+>Miller Center of Public Affairs, University of Virginia. "Presidential Speeches: Downloadable Data." Accessed January 13, 2024. data.millercenter.org.
+
+>Neshkovska, S. (2019). Language in political speeches. In International Scientific Conference “Towards a Better Future: Democracy, EU Integration and Criminal Justice” Conference Proceedings, Volume II (Vol. 2, pp. 115-124). Faculty of Law-Kicevo, University “St. Kliment Ohridski”-Bitola.
