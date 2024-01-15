@@ -16,7 +16,9 @@ The tutorial section takes you through every step of the data collection and ana
 
 Lastly, the active learning exercise encourages users to apply what they have learned from the tutorial. We encourage you to create your own dataset, develop your own research questions, and analyze the data using the techniques taught in the tutorial.
 
-## Files
+## Data Management Plan
+>Data_Management_Plan.pdf
+## Folders & Files
 Collecting data
 >Biden_presidential_speeches1.csv: unprocessed data, collected by using Miller Center API.
 
