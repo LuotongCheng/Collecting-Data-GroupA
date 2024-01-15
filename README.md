@@ -6,7 +6,8 @@ In this project, we delve into the speeches of Joe Biden, the current President 
 Our goal is to collect and analyze 21 speeches delivered by Joe Biden to uncover the underlying themes and trends in his speeches. We will use two methods: Miller Center API and web scraping to collect the speech transcripts from the [Miller Center website](https://millercenter.org/the-presidency/presidential-speeches). We will employ computational techniques like the natural language processing and machine learning algorithms. Through topic modeling, we will uncover the latent themes within Biden's speeches, providing a comprehensive overview of the issues he has addressed. By analyzing the parts of speech and named entities, we will gain a deeper understanding of the linguistic patterns and the entities that Biden frequently references. By doing so, we aim to shed light on the key issues that have captured Biden's attention and how they have potentially shifted over time.
 
 ## Notebook
-Collecting_Data_GroupA.ipynb
+>Collecting_Data_GroupA.ipynb
+
 This notebook is divided into three sections: introduction, tutorial, and active learning exercises.
 
 In the introduction section, you will find background information about our project, including the research questions and motivation behind it. We also provide details about the data source we used and evaluate its credibility.
